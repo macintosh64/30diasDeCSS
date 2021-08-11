@@ -12,5 +12,18 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 - 
 A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDeCSS/wiki/Lista-de-Desafios) desse repositorio.
 
-## [Desafio Dia 01 - Ícone de mídia social em camadas](https://github.com/manassesss/30diasDeCSS/wiki/Lista-de-Desafios)
+## Desafio Dia 01 - Ícone de mídia social em camadas
 
+![Dia 1](https://user-images.githubusercontent.com/71160928/129099915-0b96a2ce-232c-4f9d-ab70-a56892f494b1.png)
+
+Meu Código
+
+Post Twitter
+
+**O que eu aprendi**
+- Criar as camadas utilizando a tag span
+- Tranformação 2D ou 3D de um elemento
+- Transições CSS
+- Opacidade / transparência do CSS
+- :hover
+- nth-child
