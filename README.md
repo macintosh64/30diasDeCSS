@@ -18,7 +18,7 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 
 [Meu Código](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%201)
 
-Post Twitter
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1425558675335352328?s=20)
 
 **O que eu aprendi**
 - Criar as camadas utilizando a tag span
