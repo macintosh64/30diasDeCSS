@@ -21,12 +21,12 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 [Post Twitter](https://twitter.com/Mac_Intosh64/status/1425558675335352328?s=20)
 
 **O que eu aprendi**
-- Criar as camadas utilizando a tag span
-- Tranformação 2D ou 3D de um elemento
-- Transições CSS
-- Opacidade / transparência do CSS
-- :hover
-- nth-child
+* *Criar as camadas utilizando a tag `<span>`*
+* *tranformação 2D ou 3D de um elemento [aqui](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[Transições CSS](https://www.w3schools.com/css/css3_transitions.asp)*
+* *[Opacidade / transparência do CSS](https://www.w3schools.com/css/css_image_transparency.asp)*
+* *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
 
 ##  Desafio dia 02 - Loader animado <a name="id02"></a>
 ![Loader Animado](https://user-images.githubusercontent.com/71160928/129221036-9477f3d3-cb4e-47cc-bbc8-6b7defd5ef19.gif)
