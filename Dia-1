@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="descripition" content="30DiasdeCSS">
+    <meta name="author" content="MacInstosh64">
+    <meta name="keywords" content="CSS">
+    <title> Conheça nossas mídias sociais </title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+</head>
+
+<body>
+    <ul>
+        <li>
+            <a href="#">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span class="fa fa-facebook" aria-hidden="true"></span>
+            </a>
+        </li>
+        <li>
+            <a href="#">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span class="fa fa-twitter" aria-hidden="true"></span>
+            </a>
+        </li>
+        <li>
+            <a href="#">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span class="fa fa-qrcode" aria-hidden="true"></span>
+            </a>
+        </li>
+        <li>
+            <a href="#">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span class="fa fa-github" aria-hidden="true"></span>
+            </a>
+        </li>
+        <li>
+            <a href="#">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span class="fa fa-instagram" aria-hidden="true"></span>
+            </a>
+        </li>
+    </ul>
+    <ul>
+        <h1>Conheça nossas redes sociais!</h1>
+    </ul>
+</body>
+
+</html>
