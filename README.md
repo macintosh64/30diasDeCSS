@@ -27,3 +27,15 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 - Opacidade / transparência do CSS
 - :hover
 - nth-child
+
+##  Desafio dia 02 - Loader animado <a name="id02"></a>
+![Loader Animado](https://user-images.githubusercontent.com/71160928/129221036-9477f3d3-cb4e-47cc-bbc8-6b7defd5ef19.gif)
+
+
+[Meu código](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%202)
+
+[Post Twitter]
+
+##### O que eu aprendi
+
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
