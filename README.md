@@ -16,7 +16,7 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 
 ![Conheça-nossas-mídias-sociais-Opera-2021-08-11-20-53-56](https://user-images.githubusercontent.com/71160928/129118647-aeb1e540-785c-4629-99e3-b6ac3a491b14.gif)
 
-Meu Código
+[Meu Código](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%201)
 
 Post Twitter
 
