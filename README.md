@@ -42,10 +42,11 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 
 ##  Desafio dia 03 - Mudança de cor de texto quando entra em outra div 
 
-img
+![Mudança-de-cor-de-texto-quando-entra-em-outra-div-Opera-2021-08-13-20-53-27 (1)](https://user-images.githubusercontent.com/71160928/129428010-39f48476-b6ca-47f5-b66d-12382154bedc.gif)
 
 
-[Meu código]()
+[Meu código](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%203)
+)
 
 [Post Twitter]()
 
