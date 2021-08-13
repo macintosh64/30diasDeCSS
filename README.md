@@ -39,3 +39,18 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 ##### O que eu aprendi
 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+##  Desafio dia 03 - Mudança de cor de texto quando entra em outra div 
+
+img
+
+
+[Meu código]()
+
+[Post Twitter]()
+
+
+##### Dicas
+
+* *[CSS Overflow](https://www.w3schools.com/css/css_overflow.asp)* 
+* *Use [animations](https://www.w3schools.com/css/css3_animations.asp)*
