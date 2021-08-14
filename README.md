@@ -54,3 +54,18 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 
 * *[CSS Overflow](https://www.w3schools.com/css/css_overflow.asp)* 
 * *Use [animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+##  Desafio dia 04 - Botão com efeito
+![Efeito-Hover-Opera-2021-08-14-09-23-10](https://user-images.githubusercontent.com/71160928/129446336-70c231d6-5974-4b1e-a51b-4edb0ea7694a.gif)
+
+[Meu codigo]()
+
+[Post Twitter]()
+
+##### O que eu aprendi
+
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
+* *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
