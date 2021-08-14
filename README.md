@@ -58,9 +58,9 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 ##  Desafio dia 04 - Botão com efeito
 ![Efeito-Hover-Opera-2021-08-14-09-23-10](https://user-images.githubusercontent.com/71160928/129446336-70c231d6-5974-4b1e-a51b-4edb0ea7694a.gif)
 
-[Meu codigo]()
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%204)
 
-[Post Twitter]()
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1426522151566327812?s=20)
 
 ##### O que eu aprendi
 
