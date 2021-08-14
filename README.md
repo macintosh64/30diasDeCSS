@@ -46,9 +46,8 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 
 
 [Meu código](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%203)
-)
 
-[Post Twitter]()
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1426332662478823424?s=20)
 
 
 ##### Dicas
