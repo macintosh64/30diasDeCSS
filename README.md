@@ -88,12 +88,12 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 
 ##  Desafio dia 06 - Efeito lightning text 
-Foto
+![Efeito-Lightning-Text-Opera-2021-08-16-15-59-01](https://user-images.githubusercontent.com/71160928/129616288-9d283885-2104-4207-a2fb-439d0da27287.gif)
 
 
-[Meu codigo]()
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%206)
 
-[Post Twitter]()
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1427346374643884033?s=20)
 
 ##### O que eu aprendi
 
