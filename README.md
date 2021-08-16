@@ -86,3 +86,16 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+
+##  Desafio dia 06 - Efeito lightning text 
+Foto
+
+
+[Meu codigo]()
+
+[Post Twitter]()
+
+##### O que eu aprendi
+
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
