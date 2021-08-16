@@ -71,7 +71,7 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 
 ##  Desafio dia 05 - Efeito pulsar <a name="id05"></a>
-![dia 05](![Efeito-Pulsar-Opera-2021-08-15-21-27-02](https://user-images.githubusercontent.com/71160928/129497643-02a087e8-472d-47ef-9f55-49b831e2a6ee.gif))
+![dia 05](![Efeito-Pulsar-Opera-2021-08-15-21-27-02](https://user-images.githubusercontent.com/71160928/129497643-02a087e8-472d-47ef-9f55-49b831e2a6ee.gif)
 
 [Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%205)
 
