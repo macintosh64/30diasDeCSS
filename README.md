@@ -99,3 +99,16 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+
+##  Desafio dia 07 - Preloader animado 
+![Preloader-Animado-Opera-2021-08-17-10-45-52](https://user-images.githubusercontent.com/71160928/129737695-8309ba8f-12e4-4641-9199-a5a0e17113e8.gif)
+
+
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%207)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1427629222718283778?s=20)
+
+##### O que eu aprendi
+
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
