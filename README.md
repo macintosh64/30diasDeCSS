@@ -127,3 +127,19 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
+##  Desafio dia 09 - Pendulo de Newton 
+![Pêndulo-Opera-2021-08-19-18-40-19](https://user-images.githubusercontent.com/71160928/130148228-63326935-0be4-43e2-9f75-2457e2e42e75.gif)
+
+
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%209)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1428473562566901769?s=20)
+
+##### O que eu aprendi
+
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[first-child](https://www.w3schools.com/cssref/sel_firstchild.asp)*
+* *[last-child](https://www.w3schools.com/cssref/sel_last-child.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
