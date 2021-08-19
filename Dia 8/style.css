@@ -1,0 +1,58 @@
+<style>
+body
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lato', sans-serif;
+    background-color: #ffd4d4;
+}
+.coracao
+{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background: rgb(255,194,194);
+    background: radial-gradient(circle, rgba(255,194,194,1) 0%, rgba(226,25,25,1) 100%);
+    transform: rotate(45deg);
+    animation: batidao 1.4s linear infinite;
+}
+.coracao:before
+{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgb(255,194,194);
+    background: radial-gradient(circle, rgba(255,194,194,1) 0%, rgba(226,25,25,1) 100%);
+    transform: translateY(-50%);
+    border-radius: 10%;
+}
+.coracao:after
+{
+    content:'' ;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgb(255,194,194);
+    background: radial-gradient(circle, rgba(255,194,194,1) 0%, rgba(226,25,25,1) 100%);
+    transform: translateX(-50%);
+    border-radius: 10%;
+}
+
+@keyframes batidao
+{
+    0% {transform:  rotate(45deg) scale(1);}
+    25% {transform:  rotate(45deg) scale(1);}
+    30% {transform:  rotate(45deg) scale(1.4);}
+    50% {transform:  rotate(45deg) scale(1.2);}
+    70% {transform:  rotate(45deg) scale(1.4);}
+    100% {transform:  rotate(45deg) scale(1);}
+}
+
+</style>
