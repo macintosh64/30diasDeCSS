@@ -112,3 +112,18 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+
+##  Desafio dia 08 - Coração batendo 
+![Coração-Opera-2021-08-18-21-58-32](https://user-images.githubusercontent.com/71160928/129991139-30ab3f29-17b0-4716-b840-64f92cfce86c.gif)
+
+
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%208)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1428160370175320065?s=20)
+
+##### O que eu aprendi
+
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
