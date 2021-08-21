@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="MacIntosh64">
+    <title>Pêndulo</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="pendulo">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+</body>
+</html>
+
+<style>
+
+body 
+{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #bdfff9;
+}
+
+.pendulo 
+{
+	display: flex;
+	border-top: 10px solid rgb(0, 0, 0);
+}
+
+.pendulo span 
+{
+	display: block;
+	width: 3px;
+	height: 300px;
+	background-color: rgb(0, 0, 0);
+	margin: 0 29px;
+	position: relative;
+	transform-origin: top;
+}
+
+.pendulo span:before 
+{
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+    background: -webkit-radial-gradient(65% 15%, circle, white 1px, rgb(190, 190, 190) 3%, rgb(107, 107, 107) 60%, rgb(190, 190, 190) 100%); 
+    background: -moz-radial-gradient(65% 15%, circle, white 1px, rgb(190, 190, 190) 3%, rgb(107, 107, 107) 60%, rgb(190, 190, 190) 100%); 
+    background: -o-radial-gradient(65% 15%, circle, white 1px, rgb(190, 190, 190) 3%, rgb(107, 107, 107) 60%, rgb(190, 190, 190) 100%);
+    background: radial-gradient(circle at 65% 15%, white 1px, rgb(190, 190, 190) 3%, rgb(107, 107, 107) 60%, rgb(190, 190, 190) 100%);  
+	transform: translateX(-50%);
+}
+
+.pendulo span:first-child 
+{
+	animation: left-arm 2s ease-in infinite;
+}
+
+.pendulo span:last-child 
+{
+	animation: right-arm 2s ease-in infinite 1s;
+}
+
+@keyframes left-arm 
+{
+	0% { transform: rotate(0deg); }
+	25% { transform: rotate(60deg); }
+	50% { transform: rotate(0deg); }
+	100% { transform: rotate(0deg); }
+}
+
+@keyframes right-arm 
+{
+	0% { transform: rotate(0deg); }
+	25% { transform: rotate(-60deg); }
+	50% { transform: rotate(0deg); }
+	100% { transform: rotate(0deg); }
+}
+
+</style>
