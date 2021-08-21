@@ -143,3 +143,16 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * *[last-child](https://www.w3schools.com/cssref/sel_last-child.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
+##  Desafio dia 10 - Animação texto alternando 
+
+
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2010)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1428894497954467842?s=20)
+
+##### O que eu aprendi
+
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+
