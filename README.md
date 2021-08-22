@@ -170,3 +170,16 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * *[Overflow](https://www.w3schools.com/css/css_overflow.asp)* 
 * *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
 * *[z-index](https://www.w3schools.com/cssref/pr_pos_z-index.asp)*
+
+##  Desafio dia 12 - Efeito de preenchimento ao passar o mouse<a name="id12"></a>
+![Efeito-preenchimento-Opera-2021-08-22-19-31-46](https://user-images.githubusercontent.com/71160928/130372157-909e7a8b-5b9e-4fd4-8059-f3c42d813b91.gif)
+
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2012)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1429573294802542598?s=20)
+
+##### O que eu aprendi
+
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
