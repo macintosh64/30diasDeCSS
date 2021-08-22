@@ -155,4 +155,18 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
+##  Desafio dia 11 - Botão com efeito hover 
+![Botão-com-efeito-hover-Opera-2021-08-21-22-00-45](https://user-images.githubusercontent.com/71160928/130338628-592c50fd-acc9-41fe-ab27-5eab9f4738c1.gif)
 
+
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2011)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1429248341083316225?s=20)
+
+##### O que eu aprendi
+
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[Overflow](https://www.w3schools.com/css/css_overflow.asp)* 
+* *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
+* *[z-index](https://www.w3schools.com/cssref/pr_pos_z-index.asp)*
