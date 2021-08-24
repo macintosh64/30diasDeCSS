@@ -174,6 +174,7 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 ##  Desafio dia 12 - Efeito de preenchimento ao passar o mouse<a name="id12"></a>
 ![Efeito-preenchimento-Opera-2021-08-22-19-31-46](https://user-images.githubusercontent.com/71160928/130372157-909e7a8b-5b9e-4fd4-8059-f3c42d813b91.gif)
 
+
 [Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2012)
 
 [Post Twitter](https://twitter.com/Mac_Intosh64/status/1429573294802542598?s=20)
@@ -183,3 +184,16 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
 * *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
+
+##  Desafio dia 13 - Loading com efeito
+![Loading-Opera-2021-08-23-21-46-54](https://user-images.githubusercontent.com/71160928/130538331-bbb61df4-b691-4bce-937e-9352704a3d9a.gif)
+
+
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2013)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1429972708679458818?s=20)
+
+##### O que eu aprendi
+
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
