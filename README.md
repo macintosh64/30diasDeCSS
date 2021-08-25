@@ -197,3 +197,17 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+
+##  Desafio dia 14 - Fundo de texto animado
+![Fundo-de-texto-animado-Opera-2021-08-24-21-23-56](https://user-images.githubusercontent.com/71160928/130706957-40ff0050-c002-417f-945d-e2e5fa0a6fdb.gif)
+
+
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2014)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1430325894934114304?s=20)
+
+##### O que eu aprendi
+
+
+* *[background-clip](https://www.w3schools.com/cssref/css3_pr_background-clip.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
