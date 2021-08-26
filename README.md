@@ -225,3 +225,18 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+##  Desafio dia 16 - Botão com efeito 
+![Botão-de-Tarefas-Opera-2021-08-26-11-37-01](https://user-images.githubusercontent.com/71160928/130983165-d9f0b8ac-857e-472d-9949-2468ef697913.gif)
+
+
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2016)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1430903244188880901?s=20)
+
+##### O que eu aprendi
+
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
