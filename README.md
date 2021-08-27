@@ -240,3 +240,16 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 * *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
+
+##  Desafio dia 17 - Loader animado
+![Loader-Animado-Opera-2021-08-27-11-27-13](https://user-images.githubusercontent.com/71160928/131143792-e19cb3dd-4e86-4893-a0b5-a7fdcb9df72e.gif)
+
+
+[Meu código](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2017)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1431263787726909440?s=20)
+
+##### O que eu aprendi
+
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
