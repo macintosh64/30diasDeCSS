@@ -253,3 +253,17 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
+##  Desafio dia 18 - Texto esfumaçado
+![Texto-esfumaçado-Opera-2021-08-28-22-02-40](https://user-images.githubusercontent.com/71160928/131234866-8b1d54a7-fdf7-4da3-aea1-2a5864e2899a.gif)
+
+
+
+[Meu código](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2018)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1431786008329211908?s=20)
+
+##### O que eu aprendi
+
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
