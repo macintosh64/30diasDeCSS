@@ -282,3 +282,18 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[variáveis CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties)*
+
+##  Desafio dia 20 - Botão com efeito 
+![Botão-com-efeito-Opera-2021-08-30-14-28-52](https://user-images.githubusercontent.com/71160928/131380461-afe03997-f03c-483f-b7db-c3ac200e54e4.gif)
+
+
+[Meu código](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2020)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1432395999759278081?s=20)
+
+##### O que eu aprendi
+
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
