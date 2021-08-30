@@ -267,3 +267,18 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 * *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+
+##  Desafio dia 19 - Efeitos de animação fundo de partículas 
+![Texto-esfumaçado-Opera-2021-08-29-22-26-55](https://user-images.githubusercontent.com/71160928/131273642-10cc226c-e584-4e38-b835-bec3d2a4f010.gif)
+
+
+[Meu código](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2019)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1432154833071611907?s=20)
+
+##### O que eu aprendi
+
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[variáveis CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties)*
