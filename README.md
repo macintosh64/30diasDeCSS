@@ -297,3 +297,17 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 * *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
+
+##  Desafio dia 21 - Esferas quicando 
+![Bolas-quicando-Opera-2021-08-31-11-30-10](https://user-images.githubusercontent.com/71160928/131522079-ec84b46c-283d-4e2a-a2d1-7e57b9b27a11.gif)
+
+
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2021)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1432713211283972105?s=20)
+
+##### O que eu aprendi
+
+
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
