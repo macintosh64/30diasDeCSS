@@ -311,3 +311,19 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+##  Desafio dia 22 - Icones com efeito 
+![Botões-com-ícones-Opera-2021-09-01-19-42-19](https://user-images.githubusercontent.com/71160928/131755016-435e8bc6-1a17-498b-8e99-77878c90e693.gif)
+
+
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2022)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1433199419994873856?s=20)
+
+##### O que eu aprendi
+
+
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
