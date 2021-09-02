@@ -327,3 +327,17 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
 * *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+##  Desafio dia 23 - Botão com efeito
+![Efeito-hover-Opera-2021-09-02-19-19-13](https://user-images.githubusercontent.com/71160928/131923880-d4772fd1-93f5-408c-8bf8-49c43384e379.gif)
+
+
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2023)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1433556012120739844?s=20)
+
+##### O que eu aprendi
+
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+
