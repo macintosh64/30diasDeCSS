@@ -135,7 +135,8 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 
 [Post Twitter](https://twitter.com/Mac_Intosh64/status/1428473562566901769?s=20)
 
-##### O que eu aprendi
+##### O que eu aprendi![Preloader-animado-Opera-2021-09-03-18-03-39](https://user-images.githubusercontent.com/71160928/132065222-67d5bf6a-5136-47d6-a2d3-f0f3b947426b.gif)
+
 
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
 * *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
@@ -341,3 +342,15 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 
+##  Desafio dia 24 - Preloader animado 
+![Preloader-animado-Opera-2021-09-03-18-03-39](https://user-images.githubusercontent.com/71160928/132065262-f7554c8f-5d91-44fd-b9c7-75ab37fb0841.gif)
+
+
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2024)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1433899719235866628?s=20)
+
+##### O que eu aprendi
+
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
