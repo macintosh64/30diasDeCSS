@@ -135,7 +135,7 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 
 [Post Twitter](https://twitter.com/Mac_Intosh64/status/1428473562566901769?s=20)
 
-##### O que eu aprendi![Preloader-animado-Opera-2021-09-03-18-03-39](https://user-images.githubusercontent.com/71160928/132065222-67d5bf6a-5136-47d6-a2d3-f0f3b947426b.gif)
+##### O que eu aprendi
 
 
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
