@@ -354,3 +354,16 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+
+## Desafio dia 25 - checkbox animado 
+![Checkbox-Animado-Opera-2021-09-04-23-43-00](https://user-images.githubusercontent.com/71160928/132113136-9ab5f3aa-6013-4ae5-9566-a4cb151abf88.gif)
+
+
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%20255)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1434347392061657094?s=20)
+
+##### O que eu aprendi 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)* 
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
