@@ -367,3 +367,15 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)* 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
+## Desafio dia 26 - Loading com efeito
+![Loading-com-efeito-Opera-2021-09-05-16-33-09](https://user-images.githubusercontent.com/71160928/132139244-a7c71cba-5aa5-487b-bfd5-f33298f65584.gif)
+
+
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2026)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1434602001527103494?s=20)
+
+##### O que eu aprendi 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)* 
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
