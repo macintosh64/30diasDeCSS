@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="MacIntosh64">
+    <title>Efeito pulsar</title>
+    <link rel="stylesheet" href="style.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css" integrity="sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns" crossorigin="anonymous">
+
+</head>
+
+<body>
+    <div class="pulse">
+        <i class="fas fa-search-location"></i>
+    </div>
+</body>
+
+</html>
+
+<style>
+    body {
+        margin: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        background-image: url(https://wallpaperaccess.com/full/3990187.jpg);
+    }
+    
+    .pulse {
+        width: 100px;
+        height: 100px;
+        background-color: #ff0000;
+        color: white;
+        border-radius: 50%;
+        text-align: center;
+        line-height: 100px;
+        font-size: 48px;
+        position: relative;
+    }
+    
+    .pulse:before,
+    .pulse:after {
+        content: '';
+        position: absolute;
+        left: -20px;
+        right: -20px;
+        top: -20px;
+        bottom: -20px;
+        border: 1px solid #ff0000;
+        border-radius: 50%;
+        animation: pulse 1.5s linear infinite;
+    }
+    
+    .pulse:after {
+        animation-delay: 0.5s;
+    }
+    
+    @keyframes pulse {
+        0% {
+            transform: scale(0.5);
+            opacity: 0
+        }
+        50% {
+            transform: scale(1);
+            opacity: 1
+        }
+        100% {
+            transform: scale(1.2);
+            opacity: 0
+        }
+    }
+</style>
