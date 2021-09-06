@@ -379,3 +379,16 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)* 
 * *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+## Desafio dia 27 - Efeito pulsar
+![Efeito-pulsar-Opera-2021-09-06-18-24-25](https://user-images.githubusercontent.com/71160928/132261401-3ad6681c-b61c-4117-a42a-11a6c1885031.gif)
+
+
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2027)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1434991979297976330?s=20)
+
+##### O que eu aprendi 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)* 
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
