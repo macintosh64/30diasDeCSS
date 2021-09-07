@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="MacIntosh64">
+    <title>Cor do background mudando</title>
+    <link rel="stylesheet" href="style.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css" integrity="sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns" crossorigin="anonymous">
+
+</head>
+
+<body>
+    <h1>#Flopou</h1>
+</body>
+
+</html>
+
+<style>
+    body {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        animation: bgchange 10s infinite;
+    }
+    
+    h1 {
+        font-size: 200px;
+        text-align: center;
+        text-transform: capitalize;
+        color: rgb(0, 0, 0);
+    }
+    
+    @keyframes bgchange {
+        0% {
+            background-color: #ff0000
+        }
+        20% {
+            background-color: rgb(255, 136, 0)
+        }
+        40% {
+            background-color: rgb(255, 221, 71)
+        }
+        60% {
+            background-color: rgb(30, 255, 0)
+        }
+        80% {
+            background-color: rgb(0, 38, 255)
+        }
+        100% {
+            background-color: #ff00f2
+        }
+    }
+</style>
