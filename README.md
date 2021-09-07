@@ -392,3 +392,14 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)* 
 * *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+## Desafio dia 28 - Cor do background mudando
+![Cor-do-background-mudando-Opera-2021-09-07-17-55-06](https://user-images.githubusercontent.com/71160928/132409850-48f8f34c-bd30-4ab3-9c8c-368b3863fe81.gif)
+
+
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2028)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1435347325665296386?s=20)
+
+##### O que eu aprendi 
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
