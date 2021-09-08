@@ -403,3 +403,14 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 
 ##### O que eu aprendi 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+## Desafio dia 29 - Menu responsivo com Media Queries
+![Dia%2029 html#](https://user-images.githubusercontent.com/71160928/132511484-0b0f5616-bdc9-4038-be9c-9ef767b5d297.png)
+
+
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2029)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1435586156943618053?s=20)
+
+##### O que eu aprendi 
+* *[@media](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@media)*
