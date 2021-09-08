@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="MacIntosh64">
+    <title>Menu responsivo com media queries</title>
+    <link rel="stylesheet" href="style.css" type="text/css" media="all">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="nav">
+        <label for "toggle">&#9776;</label>
+        <input type="checkbox" id="toggle" />
+        <div class="menu">
+            <a href="#">Home</a>
+            <a href="#">Messages</a>
+            <a href="#">Notification</a>
+            <a href="#">Profile</a>
+        </div>
+    </div>
+</body>
+
+</html>
+
+<style>
+    body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        background-color: black;
+    }
+    
+    .nav {
+        border-bottom: 10px solid #2a00e6;
+        text-align: right;
+        height: 70px;
+        line-height: 70px;
+    }
+    
+    .menu {
+        margin: 0 30px 0 0;
+    }
+    
+    .menu a {
+        clear: right;
+        text-decoration: none;
+        color: #e6cf00;
+        margin: 0 10px;
+        line-height: 70px;
+    }
+    
+    label {
+        margin: 0 40px 0 0;
+        font-size: 26px;
+        line-height: 70px;
+        display: none;
+        width: 26px;
+        float: right;
+    }
+    
+    #toggle {
+        display: none;
+    }
+    
+    @media only screen and (max-width: 500px) {
+        label {
+            display: block;
+            cursor: pointer;
+        }
+        .menu {
+            text-align: center;
+            width: 100%;
+            display: none;
+        }
+        .menu a {
+            display: block;
+            border-bottom: 10px solid #2a00e6;
+            margin: 0;
+            color: #e6cf00;
+        }
+        #toggle:checked+.menu {
+            display: block;
+        }
+    }
+</style>
