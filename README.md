@@ -414,3 +414,18 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 
 ##### O que eu aprendi 
 * *[@media](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@media)*
+
+## Desafio dia 30 - Fogos de artificio
+![Explosões-Opera-2021-09-09-20-57-08](https://user-images.githubusercontent.com/71160928/132777718-90f7b8b7-17da-4cfe-801e-5ee0b9c14934.gif)
+
+
+[Meu codigo](https://github.com/macintosh64/30diasDeCSS/tree/main/Dia%2030)
+
+[Post Twitter](https://twitter.com/Mac_Intosh64/status/1436117186863566849?s=20)
+
+##### O que eu aprendi 
+
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)* 
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
